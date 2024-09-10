@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirmond2000@gmail.com)
 
 
-- 🎓 Formação: **CEFET - Bacharel em Sistemas de Informação**
+- 🎓 Formação: **Bacharel em Sistemas de Informação - CEFET**
 - 💼 Atualmente trabalhando como desenvolvedor Flutter na RFID Brasil
 - 🌍 Localização: Nova Friburgo - RJ
 
