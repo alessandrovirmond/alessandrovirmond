@@ -1,11 +1,13 @@
 # 👋 Olá! Eu sou o Alessandro Virmond
 
 - 🎓 Formação: CEFET - Bacharel em Sistemas de Informação
+- 💼 Atualmente trabalhando como desenvolvedor Flutter na RFID Brasil
 - 🌍 Localização: Nova Friburgo - RJ
-- 💼 Atualmente trabalhando como desenvolvedor front-end na RFID Brasil
 
-- **LinkedIn:** [Alessandro Virmond](https://www.linkedin.com/in/alessandrovirmond/)
-- **Email:** avirmond2000@gmail.com
+
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrovirmond/)
+- **Email:** [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirmond2000@gmail.com)
+
 
 ## 🚀 Tecnologias e Ferramentas
 
