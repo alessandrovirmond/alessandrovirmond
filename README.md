@@ -5,8 +5,10 @@
 - 🌍 Localização: Nova Friburgo - RJ
 
 
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrovirmond/)
-- **Email:** [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirmond2000@gmail.com)
+## 📫 Como me Encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrovirmond/) 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirmond2000@gmail.com)
 
 
 ## 🚀 Tecnologias e Ferramentas
