@@ -32,7 +32,7 @@ Conhecimento nas seguintes tecnologias:
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=alessandro-virmond&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=alessandrovirmond&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59)
 
 
 
