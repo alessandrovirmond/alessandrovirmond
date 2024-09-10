@@ -5,7 +5,7 @@
 
 
 - 🎓 Formação: **Bacharel em Sistemas de Informação - CEFET**
-- 💼 Atualmente trabalhando como desenvolvedor Flutter na RFID Brasil
+- 💼 Atualmente trabalhando como **desenvolvedor Flutter** na RFID Brasil
 - 🌍 Localização: Nova Friburgo - RJ
 
 
