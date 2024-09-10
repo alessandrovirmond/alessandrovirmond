@@ -19,9 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-<img src="https://vitest.dev/logo-shadow.svg" width="50" height="50" alt="Vitest" />
-<img src="https://playwright.dev/img/playwright-logo.svg" width="50" height="50" alt="Playwright" />
-<img src="https://kahlan.github.io/assets/images/kahlan-logo.png" width="50" height="50" alt="Kahlan" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" height="50" alt="Android Studio" />
 
 
