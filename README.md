@@ -1,12 +1,22 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou o Alessandro Virmond
+<!--  -->
+<!-- ![Capa](https://www.exemplo.com/imagem-de-capa.png) -->
 
-![Capa](https://www.exemplo.com/imagem-de-capa.png)
+### 🌱 Sobre Mim
 
-Sou desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Tenho experiência em várias tecnologias de front-end e estou sempre em busca de novas oportunidades para aprender e contribuir para projetos inovadores. Aqui você encontrará alguns dos meus projetos e contribuições no GitHub.
+- 🎓 Formação: CEFET - Bacharel em Sistemas de Informação
+- 🌍 Localização: Nova Friburgo - RJ
+- 💼 Atualmente trabalhando como desenvolvedor front-end na RFID Brasil
+
+## 📫 Como me Encontrar
+
+- **LinkedIn:** [Alessandro Virmond](https://www.linkedin.com/in/alessandrovirmond/)
+- **Email:** avirmond2000@gmail.com
+
 
 ## 🚀 Tecnologias e Ferramentas
 
-Sou especializado nas seguintes linguagens e frameworks:
+Conhecimento nas seguintes tecnologias:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -22,21 +32,9 @@ Sou especializado nas seguintes linguagens e frameworks:
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=alessandro-virmond&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59)
 
-## 📫 Como me Encontrar
 
-- **Portfólio:** [Seu Site](https://seusite.com)
-- **LinkedIn:** [Seu Perfil LinkedIn](https://linkedin.com/in/seu-perfil)
-- **Email:** seuemail@exemplo.com
-
-### 🌱 Sobre Mim
-
-- 🌍 Localização: [Sua Cidade, País]
-- 🎓 Formação: [Seu Curso, Universidade]
-- 💼 Atualmente trabalhando como [Seu Cargo] na [Nome da Empresa]
-- 💬 Pergunte-me sobre: [JavaScript, React, etc.]
-- ⚡ Curiosidade: [Uma curiosidade sobre você]
 
 ---
 
