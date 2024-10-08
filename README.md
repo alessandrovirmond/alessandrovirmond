@@ -26,6 +26,7 @@
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrovirmond&&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrovirmond&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=000000)
+
 
 
