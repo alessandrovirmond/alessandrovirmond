@@ -9,7 +9,7 @@
 
 
 - 🎓 **Bacharel em Sistemas de Informação - CEFET**
-- 💼 **desenvolvedor Flutter** na RFID Brasil
+- 💼 **Desenvolvedor Flutter** na RFID Brasil
 - 🌍 Nova Friburgo - RJ
 
 
