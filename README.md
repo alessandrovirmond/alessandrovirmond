@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=alessandrovirmond&show_icons=true&icon_color=ffff80&text_color=d963bb&title_color=bd93fa&layout=compact&bg_color=373a59)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 </p>
 
