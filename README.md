@@ -7,7 +7,6 @@
 - 🎓 **Bacharel em Sistemas de Informação - CEFET**
 - 💼 **Desenvolvedor Flutter** na RFID Brasil
 - 🌍 Nova Friburgo - RJ
-- 🌐 **Meu site:** [alessandrovirmond.github.io](https://alessandrovirmond.github.io)
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
