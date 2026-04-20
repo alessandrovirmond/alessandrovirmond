@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrovirmond/) 
 
 - 🎓 **Bacharel em Sistemas de Informação - CEFET**
-- 💼 **Desenvolvedor Flutter** na RFID Brasil
+- 💼 **Desenvolvedor Frond End** na RFID Brasil
 - 🌍 Nova Friburgo - RJ
 
 
