@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avirmond2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrovirmond/) 
 
-- 🎓 **Bacharel em Sistemas de Informação - CEFET**
+- 🎓 **Bachelor's Degree in Information Systems - CEFET**
 - 💼 **Software Developer** at RFID Brasil
 - 🌍 Nova Friburgo, RJ - Brazil
 
