@@ -8,7 +8,7 @@
 - 💼 **Software Developer** at RFID Brasil
 - 🌍 Nova Friburgo, RJ - Brazil
 
-<br><br>
+<br>
 
 
 ### 🚀 Technologies & Tools
