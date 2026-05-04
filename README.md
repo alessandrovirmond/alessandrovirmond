@@ -9,4 +9,5 @@
 - 🌍 Nova Friburgo - RJ
 
 ![As Linguagens que mais uso](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrovirmond&layout=compact&langs_count=8&hide_title=true&theme=github_dark)
+
 🌐 **Minha página:** [my-page-react.vercel.app](https://my-page-react.vercel.app)
