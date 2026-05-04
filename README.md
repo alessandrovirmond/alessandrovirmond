@@ -8,5 +8,7 @@
 - 💼 **Desenvolvedor Frond End** na RFID Brasil
 - 🌍 Nova Friburgo - RJ
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🌐 **Minha página:** [my-page-react.vercel.app](https://my-page-react.vercel.app)
