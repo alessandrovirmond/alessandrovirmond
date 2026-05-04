@@ -8,6 +8,8 @@
 - 💼 **Front End Developer** at RFID Brasil
 - 🌍 Located in Nova Friburgo, RJ - Brazil
 
+- 🌐 **My Website:** [my-page-react.vercel.app](https://my-page-react.vercel.app)
+
 ### 🚀 Technologies & Tools
 
 <div align="left">
@@ -26,5 +28,3 @@
 
 ### 📊 Stats
 ![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alessandrovirmond&layout=compact&langs_count=8&hide_title=true&theme=tokyonight&hide=html)
-
-🌐 **My Website:** [my-page-react.vercel.app](https://my-page-react.vercel.app)
