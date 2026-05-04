@@ -26,8 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-
-
-### 📊 Stats
-![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alessandrovirmond&layout=compact&langs_count=8&hide_title=true&theme=tokyonight&hide=html)
